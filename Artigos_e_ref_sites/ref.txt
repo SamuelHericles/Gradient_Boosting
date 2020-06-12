@@ -1,5 +1,0 @@
-https://en.wikipedia.org/wiki/Ensemble_learning
-https://en.wikipedia.org/wiki/Gradient_boosting
-https://en.wikipedia.org/wiki/Boosting_(meta-algorithm)
-https://en.wikipedia.org/wiki/Loss_function
-

@@ -13,7 +13,7 @@ Teste e aprendizando do método ensemble gradient boosting para aprensetação d
 
 Apenas com o comando ``` pip install **nome da biblioteca**``` é capaz de instalar todas as depêndencias.
 
-# Licensa
+# Licença
 
 Código aberto, pois é apenas para fins educaionais.
 
